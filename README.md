@@ -24,7 +24,7 @@ A custom text-editor made with ElectronJS and HTML that uses in-memory Piece Tab
 ## To run
 
  ```
- git clone https://github.com/amankrsingh1812/ElectronJs-Project.git
+ git clone https://github.com/amankrsingh1812/Electro-Editor.git
  cd ElectronJs-Project/
  npm start
  ```
